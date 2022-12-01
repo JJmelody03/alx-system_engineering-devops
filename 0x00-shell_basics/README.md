@@ -1,1 +1,1 @@
-Display current directory contents in a long formatscript that prints the absolute path name of the current working directory
+Display current directory contents, including hidden files (starting with .). Use the long format.
